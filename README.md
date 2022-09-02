@@ -6,4 +6,4 @@ NPM     : 2106653445
 
 Kelas   : E
 
-Hobi    : Ngoding
+Hobi    : Molor
